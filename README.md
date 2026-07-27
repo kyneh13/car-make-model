@@ -2,6 +2,12 @@
 
 A deep learning project for **car make and model classification** using **PyTorch** on the **NVIDIA Jetson Orin Nano**. This project classifies vehicles from images into their corresponding make, model, and year using the Stanford Cars dataset.
 
+---
+## Demo
+
+https://drive.google.com/file/d/1UQT5JKlgvG2saD4lthqsb7SF6h6kxb9D/view?usp=sharing
+---
+
 ## Features
 
 * 🚗 Classifies **196 different car make/model/year classes**
